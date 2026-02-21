@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-illustration",
+      "description": "3D minimal SaaS premium product illustration for CVEEEZ. Large resume card on the right with UI placeholders, 3D badges for ATS (check mark icon), AI (sparkles icon), and PDF (file icon). Simple job search bar with briefcase icon. Navy to Teal gradient background with brand teal and orange accents.",
+      "imageUrl": "https://mir-s3-cdn-cf.behance.net/projects/404/368878213699271.Y3JvcCwxMjk0LDEwMTIsMCwzNQ.png",
+      "imageHint": "3d saas product"
+    },
+    {
+      "id": "about-team",
+      "description": "A successful team working together in a professional environment.",
+      "imageUrl": "https://ibnsinatrainingacademy.com/wp-content/uploads/2024/07/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%AC%D8%AD.jpg",
+      "imageHint": "successful professional team"
+    }
+  ]
+}
