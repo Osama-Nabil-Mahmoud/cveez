@@ -84,6 +84,24 @@ export const translations: any = {
         ui_ux: "متخصصة تصميم UI/UX"
       }
     },
+    contact: {
+      title: "تواصل معنا",
+      subtitle: "نحن هنا لمساعدتك في كل خطوة من مسيرتك المهنية.",
+      address: "العنوان",
+      form_name: "رقم الهاتف",
+      website: "الموقع الإلكتروني",
+      support: "الدعم الفني متاح على مدار الساعة للإجابة على استفساراتكم."
+    },
+    policies: {
+      title: "السياسات والأحكام",
+      last_update: "آخر تحديث: فبراير 2024",
+      terms: "شروط الاستخدام",
+      terms_summary: "باستخدامك لمنصة CVEEEZ، فإنك توافق على الالتزام بالشروط التالية المتعلقة باستخدام المحتوى والخدمات.",
+      privacy: "سياسة الخصوصية",
+      privacy_summary: "نحن نلتزم بحماية بياناتك الشخصية وضمان سريتها التامة وفق أعلى المعايير الأمنية.",
+      refund: "سياسة الاسترجاع",
+      refund_summary: "نوضح هنا معايير وشروط استرداد الأموال للخدمات المدفوعة والاشتراكات."
+    },
     footer: {
       rights: "جميع الحقوق محفوظة © CVEEEZ 2026"
     }
@@ -171,6 +189,24 @@ export const translations: any = {
         cv_designer_v3: "Professional CV Designer",
         ui_ux: "UI/UX Specialist"
       }
+    },
+    contact: {
+      title: "Contact Us",
+      subtitle: "We're here to help you at every step of your career journey.",
+      address: "Address",
+      form_name: "Phone Number",
+      website: "Website",
+      support: "Technical support is available 24/7 to answer your inquiries."
+    },
+    policies: {
+      title: "Policies & Terms",
+      last_update: "Last Updated: February 2024",
+      terms: "Terms of Use",
+      terms_summary: "By using the CVEEEZ platform, you agree to comply with the following terms regarding the use of content and services.",
+      privacy: "Privacy Policy",
+      privacy_summary: "We are committed to protecting your personal data and ensuring its complete confidentiality according to the highest security standards.",
+      refund: "Refund Policy",
+      refund_summary: "Here we clarify the criteria and conditions for refunding paid services and subscriptions."
     },
     footer: {
       rights: "All Rights Reserved © CVEEEZ 2026"
